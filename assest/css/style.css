@@ -359,17 +359,17 @@ footer button.show{
     border: none;
     outline: none;
     border-radius: 5px;
-    border: 1px solid #007bff;
+    border: 1px solid #00ff4c;
     transition: all 0.3s ease;
 }
 
 .buttons button.restart{
     color: #fff;
-    background: #007bff;
+    background: #f700ff;
 }
 
 .buttons button.restart:hover{
-    background: #0263ca;
+    background: #02ca02;
 }
 
 .buttons button.quit{
@@ -379,5 +379,5 @@ footer button.show{
 
 .buttons button.quit:hover{
     color: #fff;
-    background: #007bff;
+    background: #8c00ff;
 }
