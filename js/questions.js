@@ -55,18 +55,59 @@ let questions = [
       "eXamine Multiple Language"
     ]
   },
-  // you can uncomment the below codes and make duplicate as more as you want to add question
-  // but remember you need to give the numb value serialize like 1,2,3,5,6,7,8,9.....
-
-  //   {
-  //   numb: 6,
-  //   question: "Your Question is Here",
-  //   answer: "Correct answer of the question is here",
-  //   options: [
-  //     "Option 1",
-  //     "option 2",
-  //     "option 3",
-  //     "option 4"
-  //   ]
-  // },
+    {
+     numb: 6,
+     question: " Which built-in method sorts the elements of an array??",
+     answer: "sort()",
+     options: [
+       "changeOrder(order)",
+       "order()",
+       "sort()",
+       "None of the above"
+     ]
+   },
+   {
+    numb: 7,
+    question: "Which built-in method adds one or more elements to the end of an array and returns the new length of the array?",
+    answer: "push()",
+    options: [
+      "last()",
+      "put()",
+      "push()",
+      "None of the above"
+    ]
+  },
+  {
+    numb: 8,
+    question: "Which built-in method adds one or more elements to the end of an array and returns the new length of the array?",
+    answer: "push()",
+    options: [
+      "last()",
+      "put()",
+      "push()",
+      "None of the above"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Which of the following function of String object executes the search for a match between a regular expression and a specified string?",
+    answer: "search()",
+    options: [
+      "concat()",
+      "match()",
+      "replace()",
+      "search()"
+    ]
+  },
+  {
+    numb: 10,
+    question: "Which of the following function of Array object returns a new array comprised of this array joined with other array(s) and/or value(s)?",
+    answer: "concat()",
+    options: [
+      "concat()",
+      "pop()",
+      "push()",
+      "some()"
+    ]
+  },
 ];
